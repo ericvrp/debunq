@@ -1,0 +1,5 @@
+name: debunq
+version: 0.1.0
+description: My awesome Dart application
+dependencies:
+  http: ^0.12.0
